@@ -1,8 +1,8 @@
-## Interface: 70100
+## Interface: 11302
 ## Title: MouselookHandler
-## Notes: Allows controlling when mouselook is started and stopped.
-## Author: meribold (Lukas Waymann) and pwoodworth (Patrick Woodworth)
-## Version: 1.3.10
+## Notes: Allows controlling when mouselook is started and stopped
+## Author: created by meribold and pwoodworth, updated by valsan-azerty-boi
+## Version: 1.4.0-Beta
 ## SavedVariables: MouselookHandlerDB
 ## OptionalDeps: Ace3
 ## X-Embeds: Ace3
